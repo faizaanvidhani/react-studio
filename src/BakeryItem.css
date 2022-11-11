@@ -1,0 +1,20 @@
+.BakeryItemImage {
+    width: 20vw;
+    height: auto;
+}
+
+.BakeryItem {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #E4EBF7;
+    width: 20vw;
+}
+
+.BakeryButton {
+    background-color: #4775C4;
+    border: none;
+    border-radius: 0.5rem;
+    color: #fff;
+    padding: 1rem;
+}
